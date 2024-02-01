@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.uisrael.microserviciocliente.model.TipoCliente;
-import com.uisrael.microserviciocliente.services.IClienteService;
+
 import com.uisrael.microserviciocliente.services.ITipoClienteService;
 
 import lombok.Getter;
